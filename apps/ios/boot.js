@@ -109,7 +109,7 @@ E.on('notify',msg=>{
     "nl.postnl.TrackNTrace": "PostNL",
     "ph.telegra.Telegraph": "Telegram",
     "tv.twitch": "Twitch",
-    "com.zoho.mail": "Zoho Mail",
+    "com.zoho.zmail": "Zoho Mail",
 
     // could also use NRF.ancsGetAppInfo(msg.appId) here
   };
