@@ -130,7 +130,8 @@ E.on('notify',msg=>{
     '377':"Z",
     '378':"z",
     '379':"Z",
-    '380':"z",
+    380:"\0"+atob("BwsBEAAD4MEEECCB8A=="),
+   
   };
   var replacer = ""; //(n)=>print('Unknown unicode '+n.toString(16));
   //if (appNames[msg.appId]) msg.a
